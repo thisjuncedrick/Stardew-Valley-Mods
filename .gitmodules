@@ -10,3 +10,6 @@
 [submodule "ColoredTorches"]
 	path = ColoredTorches
 	url = https://github.com/thisjuncedrick/ColoredTorches
+[submodule "NoThanksKeepIt"]
+	path = NoThanksKeepIt
+	url = https://github.com/thisjuncedrick/NoThanksKeepIt.git

@@ -12,3 +12,6 @@ Active Mods:
   
 - **Craftable Colored Torches** ([Nexus](https://www.nexusmods.com/stardewvalley/mods/45289))  
   _Adds craftable colored torch variants in game._
+  
+- **No Thanks, Keep It** ([Nexus](https://www.nexusmods.com/stardewvalley/mods/45862))  
+  _NPCs return hated and disliked gifts back to your inventory. The friendship penalty still applies and the gift counts toward your daily and weekly limit._
